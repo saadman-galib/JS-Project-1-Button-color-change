@@ -20,13 +20,13 @@
     outline: none;
 }
 
-@media (max-width: 441px) {
+@media (max-width: 700px) {
     .container{
         display: flex;
         flex-wrap: wrap;
         flex-direction: row;
         align-items: center;
-        
+        margin: 0 30%;
     }
 }
 
