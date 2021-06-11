@@ -8,6 +8,7 @@
     display:flex;
     justify-content:center;
     padding-top: 25px;
+    flex-wrap: wrap;
 }
 
 .all-btn{
@@ -23,8 +24,9 @@
     .container{
         display: flex;
         flex-wrap: wrap;
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
+        
     }
 }
 
