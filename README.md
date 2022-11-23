@@ -1,4 +1,4 @@
-<h1 align="center">button color change</h1>
+<h1 align="center">javascript - button color change</h1>
 
 ## Table of Contents
 
